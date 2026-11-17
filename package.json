@@ -1,0 +1,1 @@
+{"name":"ai-money-builder","version":"0.1.0","private":false,"description":"30-day AI-assisted business experiment planner","scripts":{"start":"python -m http.server 8080"},"license":"MIT"}
